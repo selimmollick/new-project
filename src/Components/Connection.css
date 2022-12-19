@@ -1,0 +1,161 @@
+#connect-navbar {
+    background-color: transparent !important;
+}
+/* animation */
+
+body {
+    background-color: black !important;
+    /* background-color: #211f24; */
+    background: url(../Components/images/giphy\ \(4\).gif);
+    background-repeat: no-repeat !important;
+    /* background: url(../Components/images/Gif-.gif); */
+    /* background: url(../Components/images/new-gif.gif); */
+
+
+    /* background-image: url(../Components/images/background.jpg); */
+    /* background: url(https://i.pinimg.com/originals/85/d7/21/85d7212767d7cbeb6fdfefe41485eceb.png); */
+    /* background-size: cover; */
+    background-attachment: fixed;
+    background-position: center center;
+    background-position-y: center;
+    color: white;
+    width: 100%;
+    height: auto;
+}
+
+.connectionBtn {
+    font-size: 20px;
+    color:white;
+}
+
+.connectionBtn:hover {
+    color: white;
+    background-color: black;
+    border: 1px solid #198051;
+    box-shadow: 5px 5px 5px grey;
+}
+#Metamask{
+    /* display: flex; */
+    /* justify-content: center;
+    align-content: center;
+    align-items: center; */
+    
+    /* height: 80vh; */
+}
+#polygen{
+    width: 100px;
+    height: 35px;
+}
+#mainForn{
+     /* border: 1px solid white; */
+    border-radius: 30px;
+    padding: 35px;
+
+}
+#facebook{
+    font-size: 23px;
+    /* margin-left: 15px; */
+}
+#facebook:hover{
+    color:  #ffc107;
+}
+#instragram{
+    font-size: 23px;
+    margin-left: 15px;
+}
+#instragram:hover{
+    color:  #ffc107;
+}
+#twitter{
+    font-size: 23px;
+    margin-left: 15px;
+}
+#twitter:hover{
+    color:  #ffc107;
+}
+#whatsApp{
+    font-size: 23px;
+    margin-left: 15px;
+}
+#whatsApp:hover{
+    color:  #ffc107;
+}
+#submitBTN{
+    background-color: #ffc107;
+    color: black;
+    font-size: 18px;
+    padding: 8px 15px;
+    border-radius: 20px;
+    font-weight: 700;
+}
+#previewBTN{
+    background-color: #ffc107;
+    color: black;
+    font-size: 18px;
+    padding: 12px 69px;
+    border-radius: 20px;
+    border: none;
+    font-weight: 700;
+}
+#Continue{
+    background-color: green;
+    color: white;
+    font-size: 18px;
+    padding: 12px 69px;
+    border-radius: 20px;
+    border: none;
+    font-weight: 700;margin-top: 20px;
+    margin-top: 0 !important;
+}
+input{
+    /* background-color: transparent; */
+    /* background: linear-gradient(45deg, #00002a, rgb(89, 200, 240)); */
+    background: #8080802b;
+    padding: 10px;
+    border-radius: 20px;
+    width: 100%;
+    color: white;
+    border: 1px solid white;
+}
+#textArea{
+    background-color: transparent;
+    color: white;
+    width: 100%;
+}
+#fixedCol{
+    /* position: relative; */
+    /* right: 1%; */
+    
+}
+@media screen and (max-width:"400px") {
+    #fixedCol{
+        /* position: relative !important; */
+        /* right: 10%; */
+    }
+}
+#second-DIV{
+   padding: 20px;
+    border: 1px solid white;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+}
+.sec-Connect{
+    background-color: green !important;
+    font-size: 18px;
+    padding: 12px 69px;
+    border-radius: 20px;
+    border: none;
+    font-weight: 700;
+}
+
+
+/* table_create */
+
+
+.thead-white th{
+    color: white;
+}
+.lable_td td{
+    color: white;
+}

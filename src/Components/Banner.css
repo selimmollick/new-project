@@ -1,0 +1,11 @@
+.banner{
+    /* background-color: black; */
+    /* background-image: url(../Components/images/background.jpg); */
+    color: white !important;
+    /* height: 90vh; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    /* height: 600px; */
+}

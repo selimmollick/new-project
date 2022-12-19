@@ -1,0 +1,27 @@
+#Nav{
+    /* background-color: black !important; */
+    background: transparent !important;
+}
+.nav-link {   
+     color: rgb(255 255 255);
+     font-size: 20px;
+     padding: 13px;
+     margin-left: 13px;
+    }
+    #logo{
+        height: auto;
+        width: 150px;
+    }
+    #Launch{
+        font-size: 20px;
+        color: rgba(31, 31, 31, 0.9);
+        /* background-color: #b354f0; */
+
+    }
+    #Launch:hover{
+        color: rgba(31, 31, 31, 0.9);
+        /* background-color: #b354f0; */
+        background-color: black;
+        border: 1px solid #198051;
+        box-shadow: 5px 5px 5px grey;
+    }
